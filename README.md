@@ -1,2 +1,2 @@
 # OpenCV-Basics
-Contains basics of OpenCV like image Preprocessing
+Contains basics of OpenCV 
